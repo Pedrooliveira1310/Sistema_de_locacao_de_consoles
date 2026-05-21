@@ -1,0 +1,20 @@
+[
+    {
+        "tipo": "Moto",
+        "modelo": "Xbox",
+        "placa": "Palmeiras",
+        "disponivel": true
+    },
+    {
+        "tipo": "Moto",
+        "modelo": "Nintendo Switch",
+        "placa": "OLED",
+        "disponivel": true
+    },
+    {
+        "tipo": "Carro",
+        "modelo": "",
+        "placa": "",
+        "disponivel": true
+    }
+]
